@@ -1,0 +1,63 @@
+
+body{
+    width: auto;
+    height: auto;
+    padding: auto ;
+    margin:0;
+    font-family: Roboto ;
+    font-size: 12px;
+}
+.header{
+    width: auto;
+    height: auto;
+    padding: 16px ;
+    margin: auto;
+    background-color:  #EAC926;
+}
+.header_logo{
+    width: 130px;
+    height: 60px;
+    padding: 12px;
+    margin: 12px;
+    box-sizing: border-box;
+    border: 30px;
+}
+.header_pfo{
+    text-align: center;
+}
+
+.header_nav_menu_list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+     
+}
+
+   
+.burger_menu{
+
+   
+    text-align:center;
+    
+}
+.main-banner{
+
+    overflow:hidden;
+}
+
+
+.footer-sect{
+
+    padding-top: 12px;
+    text-align: center;
+}
+.footer-icon{
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.footer-copy{
+    padding-top: 10px;
+}
+
+
